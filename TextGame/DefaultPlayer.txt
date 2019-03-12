@@ -1,0 +1,5 @@
+Health: 100
+Strength: 10
+Speed: 2
+Character: 0
+RCharacter: X

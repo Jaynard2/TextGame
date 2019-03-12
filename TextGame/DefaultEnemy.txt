@@ -1,0 +1,5 @@
+Health: 50
+Strength: 5
+Speed: 1
+Character: >
+RCharacter: v
